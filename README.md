@@ -1,5 +1,7 @@
-# arduino_l476
-结构
+
+# arduino_l476  Arduino编程语句参考
+
+总体结构
 setup()
 loop()
 
@@ -163,3 +165,6 @@ bit()
 外部中断
 attachInterrupt() – 设置中断
 detachInterrupt() – 取消中断
+
+各语句具体的中文解释：http://www.taichi-maker.com/homepage/reference-index/arduino-code-reference/
+
